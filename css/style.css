@@ -1,0 +1,49 @@
+body > h1{
+margin-top: 25px;
+}
+
+div.button-container{
+width: 82%;
+transform: translateX(13%);
+margin-top: -35px;
+}
+
+
+div.container{
+width: 85%;
+height: 90%;
+display: block;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -20%);
+}
+
+table.table.table-striped.table-hover{
+transform: translateX(55%);
+}
+/* PAGINATION STYLE*/
+
+
+/* Form Container */
+div.form-container {
+width: 80%;
+
+}
+
+ul li a{
+border: solid black 1px;
+border-radius:3px;
+padding: 5px;
+}
+
+div.pagination{
+transform: translateX(98%);
+}
+
+h6{
+padding-left: 17%;
+}
+
+h6.pagecount{
+text-align: center;
+}
